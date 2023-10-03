@@ -1,7 +1,5 @@
-*.tf*
 *.tfstate
 *.terraform.lock.hcl
 *.terraform*
-
 providers/*
 .terraform
