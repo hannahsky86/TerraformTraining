@@ -9,3 +9,6 @@ resource blocks - define components of your infrastructure
 azurerm - provider 
 azurerm_resource_group = resource 
 resource arguments can be found in the Azure Provider documentation 
+
+
+terraform plan -destroy -out=destroy.tfplan to destroy cloud workspace 

@@ -3,3 +3,10 @@
 *.terraform*
 providers/*
 .terraform
+terraform.tfstate*
+terraform.tfvars
+terraform.*
+tfplan/
+tfplan.json
+variables.tf
+*.tfplan
